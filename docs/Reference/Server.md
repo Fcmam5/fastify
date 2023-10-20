@@ -1336,7 +1336,7 @@ Set the schema validator compiler for all routes. See
 <a id="set-schema-error-formatter"></a>
 
 Set the schema error formatter for all routes. See
-[#error-handling](./Validation-and-Serialization.md#schemaerrorformatter).
+[#error-handling](./Validation-and-Serialization.md#error-handling).
 
 #### setSerializerCompiler
 <a id="set-serializer-resolver"></a>
